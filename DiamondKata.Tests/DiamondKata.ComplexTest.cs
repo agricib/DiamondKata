@@ -7,7 +7,7 @@
         //in theory be orewritten, but this kind of a scenario would work better for a different type of data comparissons
 
         //something like:
-        //DiamondTestDataAttribute : DataAttribute class that would get the original output from the abstract class
+        //DiamondTestDataAttribute : DataAttribute class that would get the original output from the virtual class
         //and return ad IEnumerable with the diamonds
         //and in the bellow method change expectedDiamonds with the result from above
 
